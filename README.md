@@ -21,6 +21,8 @@
 
 ## Overview
 
+This is a BS test branch
+
 ### Chrony Puppet Module
 
 Manage chrony time daemon on Archlinux and Redhat
